@@ -5,9 +5,8 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Open up App.js to start working on your app!</Text>
-        <Text>Changes you make will automatically reload.</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Todo: 1. First page - Scrollable category list. </Text>
+        <Text> 2. Second page - User input items. </Text>
       </View>
     );
   }

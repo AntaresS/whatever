@@ -1,0 +1,7 @@
+# files from IDE
+.idea
+
+# local config files and packages
+.expo/
+node_modules/
+package-lock.json
